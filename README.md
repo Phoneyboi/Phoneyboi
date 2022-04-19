@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Phoneyboi
-- 👀 I’m interested in Data Science and Engineering.
-- 🌱 I’m currently learning how to model the form of a power clean lift through data analysis. 
+- 👀 I’m interested in Data Science, Engineering, and Video Games.
+- 🌱 I’m currently learning how to model the form of a power clean lift through data analysis. I am also learning Unity for video game development. 
 
 <!---
 Phoneyboi/Phoneyboi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
